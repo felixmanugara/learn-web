@@ -2,5 +2,5 @@ txt ini dibuat untuk belajar perintah-perintah dasar yang ada pada GITHUB
 -master 
 -branch
 -repo
--kuda
 -commit
+-version control
