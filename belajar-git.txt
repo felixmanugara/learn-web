@@ -4,3 +4,5 @@ txt ini dibuat untuk belajar perintah-perintah dasar yang ada pada GITHUB
 -repo
 -commit
 -version control
+- membuat branch
+- branch merge
